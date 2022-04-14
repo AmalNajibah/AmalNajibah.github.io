@@ -5,10 +5,19 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <template>
-  <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+<div class="bg-purple-200">
+<div class="grid place-items-center ">
+    <!-- this is my image -->
+      <img class="w-20 lg:w-48" src="glasses.png">
+    <!-- this is my paragraph -->
+      My name is Amal Najibah and as of 2022, I am 24 years old. My hobby is drawing and DIY, like making dolls and painting.
+    </div>
+    
+    
+  
+      <div class="flex-initial w-64..."></div>
+</div>
+      
 </template>
 
 <style>
